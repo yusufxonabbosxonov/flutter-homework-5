@@ -14,7 +14,7 @@ class _ProfilePageState extends State<ProfilePage> {
       backgroundColor: Colors.blue[300],
       appBar: AppBar(
         backgroundColor: Colors.blue[900],
-        foregroundColor: Colors.blue[200],
+        foregroundColor: Colors.blue[100],
       ),
     );
   }
